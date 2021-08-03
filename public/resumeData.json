@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Abraham Siregar",
+    "occupation": "Student At Gunadarma University",
+    "description": "Broadmindkindness",
+    "image": "profilepic2.jpg",
+    "bio": "Halo, Panggil saya Bram, saya seorang mahasiswa dari Universitas Gunadarma",
+    "contactmessage": "Get in touch with me",
+    "email": "abrahamsiregar99@gmail.com",
+    "phone": "+62 882274583689",
+    "address": {
+      "street": "Jln. Letnan Arsyad No. 31",
+      "city": "Bekasi",
+      "state": "Indonesia",
+      "zip": "17144"
+    },
+    "website": "https://laekandung.blogspot.com/",
+    "resumedownload": "https://laekandung.blogspot.com/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqFrucsByYH-mN2GDKZ_otQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abrahamdierpiez/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abraham-dier-spiez-22148617a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abraham_spr/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abrahamspr",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Gunadarma University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Not yet",
+        "description": "Amin Tahun Depan"
+      }
+    ],
+    "work": [
+      {
+        "company": "Lepkom Universitas Gunadarma",
+        "title": "Technical Assistant",
+        "years": "May 2019 - Present",
+        "description": "Maintaining e-learning in that course"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Muda-mudi Glorious Choir | Universitas Gunadarma Kalimalang | 2019",
+        "category": "",
+        "image": "padus.jpg",
+        "url": "https://youhttps://www.youtube.com/watch?v=EfcAC6E4YoEtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Vlog Andre Kuadrat | JALAN-JALAN | GUNADARMA D",
+        "category": "",
+        "image": "vlogandre2.jpg",
+        "url": "https://youtu.be/b7https://www.youtube.com/watch?v=m1M1qB2EkuA&t=5snrXjS6Dqs"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
