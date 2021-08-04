@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "Abraham Siregar",
+    "name": "Abraham Dier Spiez",
     "occupation": "Student At Gunadarma University",
     "description": "Broadmindkindness",
     "image": "profilepic2.jpg",
@@ -15,7 +15,7 @@
       "zip": "17144"
     },
     "website": "https://laekandung.blogspot.com/",
-    "resumedownload": "https://laekandung.blogspot.com/",
+    "resumedownload": "https://drive.google.com/file/d/1h-F3M6CgEkTUDoAVgrG-ipful5BW0RwB/view?usp=sharing",
     "social": [
       {
         "name": "youtube",
@@ -59,7 +59,7 @@
         "company": "Lepkom Universitas Gunadarma",
         "title": "Technical Assistant",
         "years": "May 2019 - Present",
-        "description": "Maintaining e-learning in that course"
+        "description": "Maintaining E-learning Infrastructure in LEPKOM Gunadarma"
       }
     ],
     "skills": [
@@ -91,13 +91,25 @@
         "title": "Muda-mudi Glorious Choir | Universitas Gunadarma Kalimalang | 2019",
         "category": "",
         "image": "padus.jpg",
-        "url": "https://youhttps://www.youtube.com/watch?v=EfcAC6E4YoEtu.be/1kGISk5ft2w"
+        "url": "https://www.youtube.com/watch?v=EfcAC6E4YoE"
       },
       {
         "title": "Vlog Andre Kuadrat | JALAN-JALAN | GUNADARMA D",
         "category": "",
         "image": "vlogandre2.jpg",
         "url": "https://youtu.be/b7https://www.youtube.com/watch?v=m1M1qB2EkuA&t=5snrXjS6Dqs"
+      },
+      {
+        "title": "Mr. Bin's Ft. Oliver and Jocelyn | Yesus Kawan Yang Sejati (KJ 453) Medley Kulihat Ibu Pertiwi",
+        "category": "",
+        "image": "binsar.jpg",
+        "url": "https://www.youtube.com/watch?v=ytKb4UIfk5E"
+      },
+      {
+        "title": "KJ 337 - BETAPA KITA TIDAK BERSYUKUR (Cover Version)",
+        "category": "",
+        "image": "binsar2.jpg",
+        "url": "https://www.youtube.com/watch?v=HzOSAyGKvEk&t=9s"
       }
     ]
   },
